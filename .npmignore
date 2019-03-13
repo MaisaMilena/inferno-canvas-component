@@ -1,13 +1,6 @@
 node_modules
 .gitignore
 .npmignore
-.editorconfig
-.travis.yml
 *.log
-build
-test
-dev
-src
-webpack.config.js
-rollup.config.js
-.vscode
+.DS_Store
+
